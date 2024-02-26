@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign v8 Web User Interface
 user-guide-title: Adobe Campaign Web User Interface
-user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface gebruikt.
-breadcrumb-title: Webgebruikersinterface - Tutorials
+user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
+breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
 source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 11%
+ht-degree: 41%
 
 ---
 
