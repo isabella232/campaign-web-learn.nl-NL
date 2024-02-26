@@ -4,18 +4,18 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van cross-chan
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
+source-git-commit: 6a3f3844cb5d835b79b1477a59add9c8aea3fe34
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 44%
+source-wordcount: '240'
+ht-degree: 37%
 
 ---
 
 # Adobe Campaign Web User Interface
 
-Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface.
+Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface. Er worden regelmatig nieuwe video&#39;s toegevoegd.
 
-Er worden regelmatig nieuwe video&#39;s toegevoegd.
+De het platformaanpassing van de campagne die op zaken en gegevensbehoeften wordt gebaseerd, en de verbinding aan andere systemen wordt beheerd in de de cliëntconsole van de Campagne. Dientengevolge, kunnen sommige montages en eigenschappen slechts van de cliëntconsole van de Campagne worden betreden, worden gecreeerd of worden beheerd. Zie (het Web van de Campagne en de gids van de Console van de Cliënt)[https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html] voor een overzicht van de instellingen en functies die in de toekomst zullen worden toegepast.
 
 >[!INFO]
 > 
@@ -24,7 +24,6 @@ Er worden regelmatig nieuwe video&#39;s toegevoegd.
 >
 > Deze zelfstudies zijn niet waar u naar op zoek bent.
 > Zie de
-> 
 > * [Zelfstudies voor de Campagne-clientconsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) voor hulp bij de campagneconsole
 > * [Adobe Campaign-webdocumentatie](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) voor meer informatie over het de gebruikersinterface van het Web van de Campagne.
 
