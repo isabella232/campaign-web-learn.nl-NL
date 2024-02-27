@@ -4,7 +4,7 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van cross-chan
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 6a3f3844cb5d835b79b1477a59add9c8aea3fe34
+source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 37%
@@ -15,7 +15,7 @@ ht-degree: 37%
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface. Er worden regelmatig nieuwe video&#39;s toegevoegd.
 
-De het platformaanpassing van de campagne die op zaken en gegevensbehoeften wordt gebaseerd, en de verbinding aan andere systemen wordt beheerd in de de cliëntconsole van de Campagne. Dientengevolge, kunnen sommige montages en eigenschappen slechts van de cliëntconsole van de Campagne worden betreden, worden gecreeerd of worden beheerd. Zie (het Web van de Campagne en de gids van de Console van de Cliënt)[https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html] voor een overzicht van de instellingen en functies die in de toekomst zullen worden toegepast.
+De het platformaanpassing van de campagne die op zaken en gegevensbehoeften wordt gebaseerd, en de verbinding aan andere systemen wordt beheerd in de de cliëntconsole van de Campagne. Dientengevolge, kunnen sommige montages en eigenschappen slechts van de cliëntconsole van de Campagne worden betreden, worden gecreeerd of worden beheerd. Zie de [Handleiding Campagne Web en Client Console](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html) voor een overzicht van de instellingen en functies die in de toekomst zullen worden toegepast.
 
 >[!INFO]
 > 
