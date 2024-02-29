@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web User Interface
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
 breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
-source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 42%
+source-wordcount: '96'
+ht-degree: 39%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 42%
 + Profielen en doelgroepen {#profiles-and-audiences}
    + [Profielen verkennen](/help/profiles-and-audiences/explore-profiles.md)
    + [Het publiek beheren en opbouwen](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [Een publiek met Experience Platform maken](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Een targetingworkflow maken](/help/workflows/create-a-targeting-workflow.md)
 + [Zelfstudies voor de Campagne-clientconsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
