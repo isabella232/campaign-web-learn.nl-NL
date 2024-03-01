@@ -1,17 +1,17 @@
 ---
-title: Adobe Campaign Web User Interface - Tutorials
+title: Zelfstudies voor Adobe Campaign Web User Interface
 description: Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video's en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 74d78d04b6e7ad3c2f631a5f01a9bd5ff8061bd3
+source-git-commit: 9a413682a42f04dd3e36fce70ae34b11897b460c
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 29%
 
 ---
 
-# Adobe Campaign Web User Interface - Tutorials
+# Zelfstudies voor Adobe Campaign Web User Interface
 
 Adobe Campaign biedt een platform voor het ontwerpen van cross-channel klantervaringen en levert een omgeving voor visuele orkestratie van campagnes, realtime-interactiebeheer en uitvoering via meerdere kanalen. Deze gebruikershandleiding bevat video&#39;s en zelfstudies over de functies en mogelijkheden van de Adobe Campaign Web User Interface. Er worden regelmatig nieuwe video&#39;s toegevoegd.
 
