@@ -4,10 +4,10 @@ description: Adobe Campaign biedt een platform voor het ontwerpen van cross-chan
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 93309841439c8d3fcd829b2f73418c66dd4cac11
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 37%
+source-wordcount: '269'
+ht-degree: 33%
 
 ---
 
@@ -36,3 +36,10 @@ De het platformaanpassing van de campagne die op zaken en gegevensbehoeften word
 
 <div id="staff-picks-section">
 </div>
+
+## Gebeurtenissen van Experience League Live
+
+* **[Vooruitgang boeken met de nieuwe Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)**
+
+  *Leer hoe u kanaalcampagnes kunt plannen, starten en meten in de nieuwe gebruikerservaring.*
+

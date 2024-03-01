@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web User Interface
 user-guide-description: Leer hoe u de functies en mogelijkheden van de Adobe Campaign Web User Interface kunt gebruiken.
 breadcrumb-title: 'Web User Interface: tutorials'
 auto-video-transcripts: true
-source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
+source-git-commit: 9b6c3185f6e4409ad8dc975fa722c9cf9c140ab6
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 39%
+source-wordcount: '117'
+ht-degree: 32%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 39%
    + [E-mailinhoud helemaal zelf ontwerpen](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Een e-mail maken door HTML te uploaden](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [E-mailinhoud maken en verbeteren met de Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
+   + [Een voorbeeld van een e-maillevering bekijken en een elektronische proefdruk maken](/help/deliveries/preview-and-proof-an-email-delivery.md)
 + Profielen en doelgroepen {#profiles-and-audiences}
    + [Profielen verkennen](/help/profiles-and-audiences/explore-profiles.md)
    + [Het publiek beheren en opbouwen](/help/profiles-and-audiences/manage-and-build-audiences.md)
@@ -30,4 +31,6 @@ ht-degree: 39%
 + Workflows {#workflows}
    + [Een targetingworkflow maken](/help/workflows/create-a-targeting-workflow.md)
 + [Zelfstudies voor de Campagne-clientconsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
++ [Actieve opnamen van Experiencen League]{#exl-live-recordings}
+   + [Vooruitgang boeken met de nieuwe Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
 
